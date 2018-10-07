@@ -1,3 +1,5 @@
+**This is forked from go-faustino/sentrifugo**
+
 About this fork
 ===============
 
